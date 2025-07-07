@@ -13,7 +13,7 @@
 
 ```bash
 git clone https://github.com/shebinbalan/admin-client-management.git
-cd yourrepo
+cd admin-client-management
 composer install
 cp .env.example .env
 php artisan key:generate
