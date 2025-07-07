@@ -12,7 +12,7 @@
 
 
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
+git clone https://github.com/shebinbalan/admin-client-management.git
 cd yourrepo
 composer install
 cp .env.example .env
@@ -21,7 +21,7 @@ php artisan migrate --seed
 php artisan serve
 Login as Admin:
 
-Email: admin@example.com
+Email: admin@admin.com
 
 Password: password
 
